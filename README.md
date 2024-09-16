@@ -10,7 +10,7 @@ Hi there
 **Languages and Tools used:**
 
 - **Languages** :Python , Java, JavaScript, Groovy
-- **GUI based Tools**: Selenium, TestComplete, Katalon Studio, Cypress
+- **GUI based Web and Android Tools**: Selenium, TestComplete, Katalon Studio, Cypress, Appium
 - **API Testing** : RESTAssured, Python REQUESTS, JMETER, ReadyAPI
 - **Databases Worked with**: MSSQL, OracleSQL, PostGRES, MongoDB
 - **Source Code Management** :SVN, GitHub
