@@ -12,7 +12,7 @@ Hi there
 - **Languages** :Python , Java, JavaScript, Groovy
 - **GUI based Tools**: Selenium, TestComplete, Katalon Studio, Cypress
 - **API Testing** : RESTAssured, Python REQUESTS, JMETER, ReadyAPI
--** Databases Worked with **: MSSQL, OracleSQL, PostGRES, MongoDB
+- **Databases Worked with**: MSSQL, OracleSQL, PostGRES, MongoDB
 - **Source Code Management** :SVN, GitHub
 - **CI/CD tools**: Jenkins, Docker
 
