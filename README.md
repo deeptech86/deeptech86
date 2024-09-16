@@ -9,12 +9,12 @@ Hi there
 
 **Languages and Tools used:**
 
-Languages :Python , Java, JavaScript, Groovy
-GUI based : Selenium, TestComplete, Katalon Studio, Cypress
-API Testing : RESTAssured, Python REQUESTS, JMETER, ReadyAPI
-Databases Worked with : MSSQL, OracleSQL, PostGRES, MongoDB
-Source Code Management :SVN, GitHub
-CI/CD tools: Jenkins, Docker
+- Languages :Python , Java, JavaScript, Groovy
+- GUI based : Selenium, TestComplete, Katalon Studio, Cypress
+- API Testing : RESTAssured, Python REQUESTS, JMETER, ReadyAPI
+- Databases Worked with : MSSQL, OracleSQL, PostGRES, MongoDB
+- Source Code Management :SVN, GitHub
+- CI/CD tools: Jenkins, Docker
 
 
  
