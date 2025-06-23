@@ -1,7 +1,7 @@
 Hi there
 
 - 🔭 I’ve recently done AWS generative AI certification , using Langchain and building Automation specific MCP solutions and how to leverage test tools for Gen AI.
-- 🌱 I’m currently working on Python (Pytest), Java(Selenium), Cypress/Playwright (For JS based frameworks like React/Angular) , Python Requests(REST)
+- 🌱 I’m currently working on integrating Gen AI with Python (Pytest), I do have considerable exposure with Java(Selenium), Cypress/Playwright (For JS based frameworks like React/Angular) , Python Requests(REST)
 - 👯 I’m looking to collaborate on Anything related to Automation and Front-end.
 - 🤔 I’m looking for help with anything related to QA Automation
 - 💬 Ask me about : Anything Automation
